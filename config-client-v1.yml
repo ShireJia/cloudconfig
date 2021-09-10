@@ -1,4 +1,4 @@
 server:
   port: 3001
-sersion: 
-message: 20210910
+version: 
+  message: 20210910
